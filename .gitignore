@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Debug/Time.log
+/TIME.COM
+/Time.NOI
+/TIME.PRN
+/Time.PRN.ASM
+/TIME.REL
+/Time.rkl
